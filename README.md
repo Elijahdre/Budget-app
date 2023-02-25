@@ -70,8 +70,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://budget-app-production-969d.up.railway.app/)
 
+- [Live Demo](https://trackapp-lplk.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
