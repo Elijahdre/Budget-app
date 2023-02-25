@@ -51,8 +51,10 @@ body {
   font-size: 1rem;
   cursor: pointer;
   background-color: var(--secondary);
-  align-self: flex-start;
+  align-self: center;
   color: #fff;
+  width: 100%;
+  margin-top: 95px;
 }
 
 .header {
