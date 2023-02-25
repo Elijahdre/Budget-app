@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe Group, type: :model do
-  let(:user) { User.create(name: 'dee', email: 'duane@gmail.com', password: 'testing') }
+  let(:user) { User.create(name: 'dee', email: 'elijah@gmail.com', password: 'testing') }
   let(:group) { Group.create(name: 'Shopping', icon: 'https://i.duane.com/Ar3Lf3Dt.png', user_id: user.id) }
   let(:operation) { Operation.create(name: 'Dress', amount: 12, user_id: user.id) }
   let(:money_group) { MoneyGroup.create(group_id: group.id, operation_id: operation.id) }
