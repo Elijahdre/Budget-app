@@ -1,5 +1,5 @@
-<%= render 'common/navigation', :title => 'Categories' %>
 <section class="container flex">
+<%= render 'common/navigation', :title => 'Categories' %>
   <ul class="list flex">
     <% @categories.each do |category| %>
       <li class="item flex">
@@ -14,5 +14,5 @@
       </li>
     <% end %>
   </ul>
-  <%= link_to 'Add New Category', new_category_path,  class: "btn" %>
+  <%= link_to 'Add New Category', new_category_path,  class: "btn-two" %>
 </section>

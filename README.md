@@ -70,6 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+
 - [Live Demo](https://trackapp-lplk.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -172,7 +173,9 @@ Feel free to check the [issues page](https://github.com/Elijahdre/Budget-app/iss
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project buy the team a [drink](.../.../)
+If you like this project then you can show your support by giving to this project a star.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
