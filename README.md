@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
 
 # 📗 Table of Contents
 
@@ -78,6 +71,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo](https://budget-app-production-969d.up.railway.app/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
