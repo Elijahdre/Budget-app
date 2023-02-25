@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-</div>
-
 
 # 📗 Table of Contents
 
@@ -77,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo]()
+- [Live Demo](https://www.loom.com/share/b238b8c6c96a447ea9de1bdbe7c3da47)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
